@@ -8,10 +8,10 @@ I’m Dwenn, an independent developer in Neuchâtel, Switzerland. I design inter
 
 | Project | What you can do with it |
 | :--- | :--- |
-| **[Canapey Launcher](https://github.com/DwennK/canapey-launcher)** | Launch games and apps on your living room PC with a controller. Browse your library from the couch in an interface designed for a TV. [See the launcher ↗](https://dwenn.ch/en/work/canapey/) |
-| **[POS Téléphonie](https://github.com/DwennK/004-Nuxt)** | Follow a phone repair from check-in to pickup. Track the repair, invoice and payment separately so staff can see what’s ready and what’s been paid. [Inside a repair case ↗](https://dwenn.ch/en/work/pos-telephonie/) |
-| **[Easy Salaires](https://github.com/DwennK/Easy-Salaires)** | Review a full year of Swiss payroll, issue PDF payslips and retrieve earlier revisions. Each company’s records stay in a local SQLite database. [See the payroll workflow ↗](https://dwenn.ch/en/work/easy-salaires/) |
-| **[Easy Glucose](https://github.com/DwennK/Easy-Glucose)** | Check glucose readings in the Mac menu bar or a floating widget on Mac and Windows. Gaps in the chart show when sensor readings are missing. [See the widget ↗](https://dwenn.ch/en/work/easy-glucose/) |
+| **[Canapey Launcher](https://github.com/DwennK/canapey-launcher)** | Launch games and apps on your living room PC with a controller. Browse your library from the couch in an interface designed for a TV. |
+| **[POS Téléphonie](https://github.com/DwennK/004-Nuxt)** | Follow a phone repair from check-in to pickup. Track the repair, invoice and payment separately so staff can see what’s ready and what’s been paid. |
+| **[Easy Salaires](https://github.com/DwennK/Easy-Salaires)** | Review a full year of Swiss payroll, issue PDF payslips and retrieve earlier revisions. Each company’s records stay in a local SQLite database. |
+| **[Easy Glucose](https://github.com/DwennK/Easy-Glucose)** | Check glucose readings in the Mac menu bar or a floating widget on Mac and Windows. Gaps in the chart show when sensor readings are missing. |
 | **[Tasks](https://github.com/DwennK/Tasks)** | Capture a task in the terminal and pick it up later in the Mac app. The app, CLI and MCP server share one local SQLite database. |
 
 ## My Stack
