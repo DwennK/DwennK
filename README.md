@@ -1,4 +1,4 @@
-[![Dwenn Kaufmann, full-stack developer in Neuchâtel, Switzerland. Previews of Canapey and Easy Glucose.](./assets/dwenn.png)](https://dwenn.ch/en/)
+[![Dwenn Kaufmann, full-stack developer in Neuchâtel, Switzerland. Previews of Canapey and Easy Glucose.](./assets/portfolio.png)](https://dwenn.ch/en/)
 
 I’m Dwenn, an independent developer in Neuchâtel, Switzerland. I design interfaces and write the code behind them, from the database in a phone repair shop to the controller navigation on my living room PC.
 
